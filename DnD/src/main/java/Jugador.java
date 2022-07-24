@@ -200,15 +200,3 @@ public class Jugador extends Personaje {
     }
 
 }
-
-/*
-Player nombre jugador
-
-Entidad nombre personaje nombre enemigo
-
-Allyes toma el nombre
-
-character atributos nombre
-characters array de character
- */
-
